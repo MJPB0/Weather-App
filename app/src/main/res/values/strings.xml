@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyWeatherApp</string>
+
+    <string name="normal_location">%1$s</string>
+    <string name="normal_temp">%1$d</string>
+    <string name="normal_pressure">%1$d hPa</string>
+    <string name="normal_desc">%1$s</string>
+    <string name="normal_sunrise">%1$s</string>
+    <string name="normal_sunset">%1$s</string>
+    <string name="normal_read_data">%1$s</string>
+    <string name="normal_temp_min">%1$d°C</string>
+    <string name="normal_temp_max">%1$d°C</string>
+    <string name="normal_temp_feel">%1$d°C</string>
+</resources>
